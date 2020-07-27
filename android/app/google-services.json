@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "33648279840",
+    "firebase_url": "https://mixcdapp.firebaseio.com",
+    "project_id": "mixcdapp",
+    "storage_bucket": "mixcdapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33648279840:android:811695d6c025d027675745",
+        "android_client_info": {
+          "package_name": "edu.uco.wbigbie.mixcd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33648279840-2unigu2mpmqolhp3qor60e518vnpkgei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2xisaN0XS809YKk44vvJyi3WFPagmRQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33648279840-2unigu2mpmqolhp3qor60e518vnpkgei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "33648279840-belhiujisi8mo6q83v8i5bmqv8e2namc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.uco.wbigbie.mixcd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

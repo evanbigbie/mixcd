@@ -1,0 +1,68 @@
+NOTES:
+
+Not including playerpage.dart or playerpage_controller.dart until I know how player works
+
+
+If I want to add packages other than authentication and firestore i should rewatch firebase config 4 flutter setup -- FlutterFire Docs and paste into pubspec.yaml
+
+Video:
+HomePage to BookPage
+
+Me:
+CDPage to SongPage
+
+
+class Book --> CD:
+
+imageURL
+title --> name
+author
+pubyear --> nothing
+sharedWith
+review --> notes
+createdBy
+lastUpdatedAt
+sharedWith
+
+class Book --> Song
+
+documentId
+title --> name
+No author
+No pubyear
+No imageUrl
+No review
+No createdBy
+No lastUpdatedAt
+No sharedWith for now
+
+PICK BACK UP - - 43. from Save Button to Add Button
+
+Watch BookPage 1,2,3... if something doesn't work with the SongPage
+
+Email list stuff is in Boopage video 3
+
+* May need to come back to myfirebase.dart to separate the songs into different collections ? Right now just have SONGSCOLLECTION
+
+maybe can have a field in the song entries in database that specifies which CD it is linked to and what the track number is?
+
+Need to come back and do 'access control' adding security rules to FireBase
+
+Only MyFirebase_controller left (???)
+
+------------------------------
+
+1. How do I play the songs?
+
+2. How do I make the songs display on the cdpage?
+
+3. Change the look of the sharedpage
+
+
+Add 'service' to database / user
+
+SONGPAGE: Add functionality where songs are assigned to CDs and don't 
+have to enter manually
+
+CodeSign Error:
+xattr -cr <path to app bundle>

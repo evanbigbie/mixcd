@@ -1,0 +1,75 @@
+Agenda 1 - Google Firebase
+Agenda 2 - Demo of the app
+front page
+signup page
+User model
+signup page controller
+
+Firebase configuration 1 - create Firebase project
+Firebase configuration 2 - setup for iOS devices
+Firebase configuration 3 - setup for Android (1)
+Firebase configuration 4 - setup for Flutter
+Firebase configuration 5 - setup test for iOS
+Firebase configuration 6 - setup for Android (2) and testing
+Firebase configuration 7 - Android simulator requirements
+Firebase Auth test on Android
+Firebase Auth test on iOS
+
+create account
+Firebase NoSQL database
+Firestore document example
+enhanced User model
+save user profile (1)
+save user profile (2)
+test for save user profile
+login page
+
+navigate to home page (1)
+navigate to home page (2)
+bug fix on dialogbox for navigate to homepage
+Firestore security rules - userprofile access control
+drawer on homepage and disable Android BACK button
+sign out
+progress bar
+progress bar in login process
+
+PART II:
+
+Book model
+dd button on home page
+bookpage and controller
+Book model - empty constructor
+book page (1)
+book page (2)
+book page (3)
+book page (4)
+book page (5)
+Book model - serialize
+add books in Firestore and security rules
+from Save button to Add button
+read books at login (1)
+ead books at login (2)
+read books at login (3), Book model - deserialize
+read books Firestore security rules
+homepage with book list
+book page for edit (1)
+homepage error fix
+book page for edit (2)
+book page for edit (3) and save
+book page for edit, Firestore save
+Firestore books collection security rules
+homepage update with Add button
+homepage update after book edit
+book page - read only fields
+delete books (1)
+delete books (2)
+delete books (3)
+Add button bug fix on 1st book add
+homepage book list left justification
+books shared with me (1)
+books shared with me (2)
+Firestore indexes build for shared with me query
+shared books page (1)
+shared books page (2)
+testing on shared books features
+profile menu for future implementation
