@@ -1,16 +1,5 @@
-# mixcd
+# Mix CD
 
-A new Flutter project.
+Potential Future Employers:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I started using GitHub for version control in January of 2020, and came to understand the purpose and usefulness of a README even more recently than that. I have posted copies of this note for projects created during or before May of 2020 as a placeholder. All future projects will include a proper README. Thank you for your understanding as I continue learning and improving my knowledge of best practices.
