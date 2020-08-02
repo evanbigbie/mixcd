@@ -2,7 +2,7 @@
 
 A music app designed to simulate the nostalgic experience of creating mix CDs that can be shared with friends. Users may specify which streaming services they have subscriptions to/accounts with so that shared mixes may be played by anyone who has access to *any* streaming service (given track availability). Only services which continue playing when phone is locked are available (no YouTube, etc.), the idea being that the mixes are listenable in a car while driving or on headphones with a locked phone in a pocket.
 
-*Note: This was an academic project that I started during my Junior year of my BS. It is not fully functional at this point.
+*Note: This was an academic project that I started during my junior year of undergrad. It is not fully functional at this point.
 
 ## Table of Contents
 - [Dev Setup](#dev-setup)
