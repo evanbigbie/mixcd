@@ -4,7 +4,7 @@ A music app designed to simulate the nostalgic experience of creating mix CDs th
 
 *Note: This was an academic project that I started during my junior year of undergrad. It is incomplete at this time.
 
-![Alt Text](/)
+![Alt Text](/images/MixCD-Views)
 
 <!--## Table of Contents
 - [Dev Setup](#dev-setup)
