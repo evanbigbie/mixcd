@@ -4,8 +4,6 @@ A music app designed to simulate the nostalgic experience of creating mix CDs th
 
 *Note: This was an academic project that I started during my junior year of undergrad. It is incomplete at this time.
 
-![Alt Text](images/MixCD-Views.png)
-
 <!--## Table of Contents
 - [Dev Setup](#dev-setup)
 - [Prerequisites](#prerequisites)
@@ -49,3 +47,5 @@ End with an example of getting some data out of the system or using it for a lit
 * [Google Firebase](https://firebase.google.com/docs/) - Mobile platform
 * [Flutter](https://flutter.dev/docs/) - UI development kit
 * iOS Emulator
+
+![Alt Text](images/MixCD-Views.png)
