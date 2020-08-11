@@ -50,6 +50,6 @@ End with an example of getting some data out of the system or using it for a lit
 * iOS Emulator
 <br/>
 
-## Flowchart
+## Flow Diagram
 
 ![Flowchart diagram](images/MixCD-Views.png)
