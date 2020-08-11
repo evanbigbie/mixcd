@@ -4,13 +4,12 @@ A music app designed to simulate the nostalgic experience of creating mix CDs th
 
 *Note: This was an academic project that I started during my junior year of undergrad. It is incomplete at this time.
 
-## Table of Contents
+<!--## Table of Contents
 - [Dev Setup](#dev-setup)
 - [Prerequisites](#prerequisites)
 - [Installing](#installing)
 - [Built With](#built-with)
 
-<!--
 ## Dev Setup
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
