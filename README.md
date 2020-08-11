@@ -52,4 +52,4 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Flowchart
 
-![Alt Text](images/MixCD-Views.png)
+![Flowchart diagram](images/MixCD-Views.png)
